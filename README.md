@@ -1,4 +1,29 @@
-#### Text-to-Speech using Python | [Go Back](https://suhasbrao.github.io/)
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+
+<a href="https://suhasbrao.github.io/" >
+  <button class="btn"><i class="material-icons">home</i></button></a>
+<a href="https://suhasbrao.github.io/Snake-game/">
+  <button class="btn"><i class="material-icons">arrow_back_ios</i></button></10
+
+<a href="https://suhasbrao.github.io/FaceDetection/" >
+  <button class="btn"><i class="material-icons">arrow_forward_ios</i></button></a>
+
+---
+
 # Text-To-Speech Using Python
 ---
 ## <samp>Description</samp>
