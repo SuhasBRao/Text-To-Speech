@@ -23,7 +23,7 @@
 
 ---
 
-<samp>Text-To-Speech Using Python</samp>
+<samp>Text-To-Speech</samp>
 ---
 ## <samp>Description</samp>
 ---
